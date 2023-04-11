@@ -30,7 +30,7 @@ module.exports = {
    */
   themeConfig: {
     variables: {
-        nTasks: '6 + 1',
+        nTasks: '5 + 2',
         tasks: [
             {
                 minScore: 5,
