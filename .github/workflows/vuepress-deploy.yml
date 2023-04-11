@@ -11,8 +11,7 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: MANASLU8/ahri
+        TARGET_REPO: MANASLU8/ahri-marsu
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn docs:build
         BUILD_DIR: docs/.vuepress/dist
-        # CNAME: https://www.xxx.com

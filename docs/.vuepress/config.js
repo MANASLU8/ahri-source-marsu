@@ -9,7 +9,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
-  base: "/ahri/",
+  base: "/ahri-marsu/",
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -62,7 +62,7 @@ module.exports = {
             }
         ]
     },
-    repo: 'https://github.com/MANASLU8/ahri-source',
+    repo: 'https://github.com/MANASLU8/ahri-source-marsu',
     editLinks: false,
     docsDir: '',
     editLinks: true,

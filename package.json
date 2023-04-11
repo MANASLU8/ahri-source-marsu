@@ -7,7 +7,7 @@
     "name": "Zeio Nara",
     "email": "zeionara@gmail.com"
   },
-  "repository": "https://github.com/MANASLU8/ahri-source.git",
+  "repository": "https://github.com/MANASLU8/ahri-source-marsu.git",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
