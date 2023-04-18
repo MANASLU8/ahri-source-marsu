@@ -3,7 +3,8 @@ ____
 ## Диаграмма активностей процесса выполнения первой лабораторной работы
 <img src="https://user-images.githubusercontent.com/79332916/232778830-69891698-15d7-4a5c-b001-a402e9eceaba.png" width="208" height="560">
 
-[Инструмент](https://www.lucidchart.com/pages/ru)
+[Инструмент](https://www.lucidchart.com/pages/ru) \
+[Actions](https://github.com/Valeogamer/git_hub_actions)
 ## Цель
 ____
 > Разработать простую, облегченную модель для обработки естественного языка, генерации текста, классификации текста. А также разобраться, изучить такие темы как LSTM, GRU, RNN.
