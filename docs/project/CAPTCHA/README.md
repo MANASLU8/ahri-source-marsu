@@ -15,7 +15,7 @@ ____
 8. - [ ] развертывание оптимизированной модели, количественная оценка эффекта оптимизации.
 ## [Датасет]([https://www.kaggle.com/datasets/rohitgr/wikitext](https://www.kaggle.com/datasets/fournierp/captcha-version-2-images))
 ____
-![Датасет]()
+![Датасет](./img/dataset-cover.png)
 
 ## Целесообразность
 ____
