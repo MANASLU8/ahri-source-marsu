@@ -5,3 +5,4 @@
 | Проект | Автор(ы) |
 | --- | --- |
 | [soy](./soy/) | Пушкин Александр Сергеевич, Крузенштерн Иван Федорович |
+| [movie-recomendation](https://github.com/GuliyaSib/movie-recomendation) | Сибагатуллина Гулия Накиповна |
