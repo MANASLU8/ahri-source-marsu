@@ -14,7 +14,7 @@ ____
 6. - [ ] выбор и развертывание наилучшей модели.
 ## [Датасет]([https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset))
 ____
-![Датасет](https://github.com/gainadir12/ahri-source-marsu/tree/master/docs/project/DIABET/img/dataset-cover.jpg)
+![Датасет](https://github.com/gainadir12/ahri-source-marsu/blob/master/docs/project/DIABET/img/dataset-cover.jpg)
 
 
 https://storage.googleapis.com/kaggle-datasets-images/2527538/4289678/2589e8e7fb0ddda542e7813ca26419c9/dataset-cover.jpg
