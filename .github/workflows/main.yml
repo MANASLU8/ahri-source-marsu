@@ -42,5 +42,5 @@ jobs:
           path: |
             X_train.csv
             X_test.csv
-            Y_train.csv
-            Y_test.csv
+            y_train.csv
+            y_test.csv
