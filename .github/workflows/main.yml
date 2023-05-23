@@ -76,3 +76,4 @@ jobs:
           name: result
           path: |
             result.txt
+            result2.txt
