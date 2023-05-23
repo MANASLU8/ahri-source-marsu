@@ -44,3 +44,25 @@ jobs:
             X_test.csv
             y_train.csv
             y_test.csv
+            
+  Learn-and-save-models:
+    needs: download-dataset-processing
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3.5.2
+      - name: Download artifact - 2
+        uses: actions/download-artifact@v3.0.2
+        with:
+          name: pre-files
+      - name: Install Python
+        uses: actions/setup-python@v4.6.0
+        with:
+          python-version: 3.9
+      - name: Upgrade pip
+        run: pip install --upgrade pip
+      - name: Install dependencies
+        run: pip install -r req.txt
+      - name: Learn and Save
+        run: |
+          python learn_model.py
