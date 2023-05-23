@@ -44,6 +44,10 @@ jobs:
             X_test.csv
             y_train.csv
             y_test.csv
+            X_train2.csv
+            X_test2.csv
+            y_train2.csv
+            y_test2.csv
             
   Learn-and-save-models:
     needs: download-dataset-processing
