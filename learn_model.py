@@ -77,10 +77,6 @@ def print_accuracy2(model,i):
 
 for mod in models:
   model = mod.fit(X_train, y_train)
-  if i == 1:
-    model.save('lr.h5')
-  if i == 2:
-    model.save('rfc.h5')
   print_accuracy(model,i)
   i = i + 1
 
@@ -88,10 +84,6 @@ i = 1
 
 for mod in models:
   model = mod.fit(X_train2, y_train2)
-  if i == 1:
-    model.save('lr2.h5')
-  if i == 2:
-    model.save('rfc2.h5')
   print_accuracy(model,i)
   i = i + 1
 
