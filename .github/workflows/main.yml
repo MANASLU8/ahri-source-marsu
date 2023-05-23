@@ -66,3 +66,9 @@ jobs:
       - name: Learn and Save
         run: |
           python learn_model.py
+      - name: Upload CSV files as artifact - 3
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: result
+          path: |
+            result.txt
