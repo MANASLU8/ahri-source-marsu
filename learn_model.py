@@ -84,7 +84,7 @@ i = 1
 
 for mod in models:
   model = mod.fit(X_train2, y_train2)
-  print_accuracy(model,i)
+  print_accuracy2(model,i)
   i = i + 1
 
 def save_info(text, name):
