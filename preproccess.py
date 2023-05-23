@@ -4,7 +4,7 @@ from imblearn.over_sampling import SMOTE
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv('1.csv')
+df = pd.read_csv('winequality-red.csv')
 last_150 = df.tail(150)
 last_150.to_csv('last_150.csv', index=False)
 without_last_150 = df.iloc[:-150]
