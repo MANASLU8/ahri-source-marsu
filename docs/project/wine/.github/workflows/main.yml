@@ -1,1 +1,26 @@
+name: wine
 
+on:
+  workflow_dispatch:
+
+jobs:
+  download-dataset-processing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3.5.2
+      - name: Install Kaggle API
+        run: pip install kaggle
+      - name: Download dataset from Kaggle
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLENAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLEKEY }}
+        run: |
+          kaggle datasets download -d uciml/red-wine-quality-cortez-et-al-2009
+          unzip red-wine-quality-cortez-et-al-2009.zip
+      - name: Upload CSV files as artifact - 1
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: csv-files
+          path: |
+            *.csv
