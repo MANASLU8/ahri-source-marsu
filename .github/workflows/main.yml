@@ -34,7 +34,7 @@ jobs:
         run: pip install -r req.txt
       - name: Preprocessing
         run: |
-          python preprocess.py
+          python preproccess.py
       - name: Upload CSV files as artifact - 2
         uses: actions/upload-artifact@v3.1.2
         with:
