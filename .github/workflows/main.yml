@@ -77,7 +77,3 @@ jobs:
           path: |
             result.txt
             result2.txt
-            lr.h5
-            rfc.h5
-            lr2.h5
-            rfc2.h5
