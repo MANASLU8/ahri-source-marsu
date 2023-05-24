@@ -77,3 +77,7 @@ jobs:
           path: |
             result.txt
             result2.txt
+            LR.joblib
+            RFC.joblib
+            LR2.joblib
+            RFC2.joblib
