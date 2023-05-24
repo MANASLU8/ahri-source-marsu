@@ -12,7 +12,7 @@ ____
 4. - [ ] выбор двух моделей с наибольшим значением точности.
 5. - [ ] оценка качества и скорости работы модели на новых данных путем A / B тестирования.
 6. - [ ] выбор и развертывание наилучшей модели.
-## [Датасет]([https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset))
+## [Датасет](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset?select=diabetes.csv)
 ____
 ![Датасет](https://github.com/gainadir12/ahri-source-marsu/blob/master/docs/project/DIABET/img/dataset-cover.jpg)
 ## Целесообразность
@@ -25,7 +25,7 @@ ____
 (несколько медицинских предикторных переменных) и только одну целевую зависимую переменную (результат).
 
 Переведено с помощью www.DeepL.com/Translator (бесплатная версия)
-[Обзор датасета](https://www.researchgate.net/publication/248380891_captcha_dataset)
+[Обзор датасета](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset?select=diabetes.csv)
 
 Можно посмотреть на пример гистограммы интенсивности. Обратите внимание
 разрыв между интенсивностью около 0 (передний план) и
