@@ -14,7 +14,8 @@ ____
 6. - [ ] выбор и развертывание наилучшей модели.
 ## [Датасет](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 ____
-![Датасет](https://storage.googleapis.com/kaggle-datasets-images/4458/6836/30587db9a40233164f65a4a3f148f40d/dataset-cover.jpg?t=2017-11-12-14-28-34)
+![Датасет](![dataset-cover](https://github.com/KorArtV/ahri-source-marsu/assets/131380068/3471a1cb-a0a0-4a7c-a553-e26c2d6f586e)
+)
 
 ## Целесообразность
 ____
