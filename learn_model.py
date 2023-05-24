@@ -79,9 +79,9 @@ def print_accuracy2(model,i):
 for mod in models:
   model = mod.fit(X_train, y_train)
   if i == 1:
-    joblib.dumb(model,'LR.joblib')
+    joblib.dump(model,'LR.joblib')
   if i == 2:
-    joblib.dumb(model,'RFC.joblib')
+    joblib.dump(model,'RFC.joblib')
   print_accuracy(model,i)
   i = i + 1
 
@@ -90,9 +90,9 @@ i = 1
 for mod in models:
   model = mod.fit(X_train2, y_train2)
   if i == 1:
-    joblib.dumb(model,'LR2.joblib')
+    joblib.dump(model,'LR2.joblib')
   if i == 2:
-    joblib.dumb(model,'RFC2.joblib')
+    joblib.dump(model,'RFC2.joblib')
   print_accuracy(model,i)
   i = i + 1
 
