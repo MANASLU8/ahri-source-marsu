@@ -15,7 +15,7 @@ import pandas as pd
 import time
 import joblib
 
-models = [LogisticRegression(), RandomForestClassifier()]
+models = [GaussianNB(), RandomForestClassifier()]
 
 X_train = pd.read_csv('X_train.csv')
 X_test = pd.read_csv('X_test.csv')
