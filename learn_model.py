@@ -13,6 +13,7 @@ from sklearn.metrics import confusion_matrix
 from sklearn.metrics import classification_report
 import pandas as pd
 import time
+import joblib
 
 models = [LogisticRegression(), RandomForestClassifier()]
 
