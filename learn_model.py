@@ -93,7 +93,7 @@ for mod in models:
     joblib.dump(model,'LR2.joblib')
   if i == 2:
     joblib.dump(model,'RFC2.joblib')
-  print_accuracy(model,i)
+  print_accuracy2(model,i)
   i = i + 1
 
 def save_info(text, name):
