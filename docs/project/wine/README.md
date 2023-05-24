@@ -50,5 +50,6 @@ ____
 ## Component diagram
 ![Component diagram](https://github.com/KorArtV/ahri-source-marsu/assets/131380068/a9e8778e-342f-4a5b-9ff9-08c9372eb9c9)
 ## Activity diagram
-![Activity diagram](https://github.com/KorArtV/ahri-source-marsu/assets/131380068/b082970b-c720-4a50-a3fd-380ce7de1761)
+![Activity diagram](https://github.com/KorArtV/ahri-source-marsu/assets/131380068/02289aa7-fbd2-417a-b987-c92f6ed51663)
+
 
