@@ -15,7 +15,6 @@ ____
 ## [Датасет](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
 ____
 ![Датасет](https://github.com/KorArtV/ahri-source-marsu/assets/131380068/3c37e51a-8e57-4de0-9add-5bed408184d8)
-)
 
 ## Целесообразность
 ____
