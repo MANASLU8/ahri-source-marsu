@@ -24,4 +24,4 @@ ____
 
 ## Activity diagram
 ![](https://github.com/GuliyaSib/movie-recomendation/blob/main/image/Activity_diagram_.png)
-[Ссылка на репозиторий] (https://github.com/GuliyaSib/movie-recomendation.git)
+[Ссылка на репозиторий](https://github.com/GuliyaSib/movie-recomendation.git)
