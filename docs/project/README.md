@@ -6,4 +6,4 @@
 | --- | --- |
 | [soy](./soy/) | Пушкин Александр Сергеевич, Крузенштерн Иван Федорович |
 | [CAPTCHA](./CAPTCHA/) | Лихачев Андрей Юрьевич |
-| [translation](./translation project/) | Горинов Андрей Альбертович |
+| [translation project](./translation/) | Горинов Андрей Альбертович |
