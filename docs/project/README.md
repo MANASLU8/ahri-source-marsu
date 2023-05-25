@@ -6,4 +6,4 @@
 | --- | --- |
 | [soy](./soy/) | Пушкин Александр Сергеевич, Крузенштерн Иван Федорович |
 | [CAPTCHA](./CAPTCHA/) | Лихачев Андрей Юрьевич |
-| [movie-recomendation](https://github.com/GuliyaSib/movie-recomendation.git) | Сибагатуллина Гулия Накиповна |
+| [movie-recomendation](./movie-rec-sys/) | Сибагатуллина Гулия Накиповна |
