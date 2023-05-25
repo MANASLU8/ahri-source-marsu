@@ -20,16 +20,16 @@ ____
 ## Целесообразность использования датасета для решения поставленной задачи:
 Обнаружение стресса - сложная задача, поскольку существует очень много слов, которые люди могут использовать в своих сообщениях и которые могут показать, испытывает ли человек психологический стресс или нет. Этот набор данных содержит сообщения, размещенные на сабреддитах, связанные с психическим здоровьем в которых люди рассказывают о своей жизни. Данные заранее помечены как 0 и 1, где 0 показывает отсутствие стреса, а 1 - его наличие. В данных отсутствуют пустые строки. 
 
-![Values](https://github.com/GALGEN3/human-stress-predict/blob/main/assets/null_values.png)
+![Values](./assets/null_values.png)
 
 Анализ стрессового состояния человека может помочь в диагностике заболеваний, связанных со стрессом, и, следовательно, поддержать терапевтические решения по их определению и устранению.
 ____
 ## Word cloud
-![Cloud](https://github.com/GALGEN3/human-stress-predict/blob/main/assets/words_common.png)
+![Cloud](./assets/words_common.png)
 ____
 ## Распределение значений
-![Results](https://github.com/GALGEN3/human-stress-predict/blob/main/assets/subreddit_distribution.png)
-![Results](https://github.com/GALGEN3/human-stress-predict/blob/main/assets/results.png)
+![Results](./assets/subreddit_distribution.png)
+![Results](./assets/results.png)
 ____
 ## Диаграммы
 + Component diagram;
@@ -37,8 +37,8 @@ ____
 ____
 ### Component diagram
 Диаграмма компонентов, описывающая структуру системы:
-![Component diagram](https://github.com/GALGEN3/human-stress-predict/blob/main/assets/components.png)
+![Component diagram](./assets/components.png)
 
 ### Activity diagram
 Диаграмма компонентов процесса работы системы:
-![Activity diagram](https://github.com/GALGEN3/human-stress-predict/blob/main/assets/Activity1.png)
+![Activity diagram](./assets/Activity1.png)
