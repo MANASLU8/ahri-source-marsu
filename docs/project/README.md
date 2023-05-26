@@ -7,3 +7,4 @@
 | [soy](./soy/) | Пушкин Александр Сергеевич, Крузенштерн Иван Федорович |
 | [CAPTCHA](./CAPTCHA/) | Лихачев Андрей Юрьевич |
 | [FND](https://github.com/Valeogamer/fake-news-detection) | Жилин Валентин Валерьевич |
+| [movie-recomendation](./movie-rec-sys/) | Сибагатуллина Гулия Накиповна |
